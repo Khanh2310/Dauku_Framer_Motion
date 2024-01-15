@@ -1,4 +1,3 @@
-// local imports
 import {
   footerLinksColumnOne,
   footerLinksColumnTwo,

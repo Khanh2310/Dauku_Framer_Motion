@@ -1,4 +1,3 @@
-// local imports
 import { careTitle, careSubtitle, careList } from "../data";
 import imageFour from "../assets/image-four.svg";
 import FadeIn from "../components/FadeIn";

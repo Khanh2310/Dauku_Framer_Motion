@@ -1,4 +1,3 @@
-// local imports
 import { referenceTitle, referenceSubtitle } from "../data";
 
 import imageOne from "../assets/image-one.svg";

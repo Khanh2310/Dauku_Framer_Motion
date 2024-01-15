@@ -1,4 +1,3 @@
-// local imports
 import { productsTitle, productsBtnText, products } from "../data";
 
 import arrowIcon from "../assets/arrow-icon.svg";
