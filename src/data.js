@@ -105,9 +105,6 @@ export const footerLinksColumnTwo = [
   },
   {
     title: "Address",
-    links: [
-      "JL. Setiabudhi No. 193 Sukasari, Bandung West Java, Indonesia",
-      "hallo@daunku.com",
-    ],
+    links: ["Ho Chi Minh City, Viet Nam", "hallo@daunku.com"],
   },
 ];
